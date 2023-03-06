@@ -2,6 +2,7 @@
 #include <SimpleFOC.h>
 #include <SimpleFOCDrivers.h>
 
+#include "./stspin32g4_hw.h"
 #include "./funqi_hw.h"
 
 void setup() {

@@ -1,0 +1,18 @@
+
+#pragma once
+
+
+#define PHASE_AH PE9
+#define PHASE_AL PE8
+#define PHASE_BH PE11
+#define PHASE_BL PE10
+#define PHASE_CH PE13
+#define PHASE_CL PE12
+
+#define INTERNAL_I2C3_SDA PC9
+#define INTERNAL_I2C3_SCL PC8
+
+#define INTERNAL_WAKE   PE7
+#define INTERNAL_READY  PE14
+#define INTERNAL_nFAULT PE15
+
